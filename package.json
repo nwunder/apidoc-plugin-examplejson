@@ -1,0 +1,26 @@
+{
+  "name": "apidoc-plugin-examplejson",
+  "version": "0.1.0",
+  "description": "Build apidoc tags with json examples with path to json file",
+  "license": {
+    "type": "MIT"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nwunder/apidoc-plugin-examplejson.git"
+  },
+  "keywords": [
+    "apidoc",
+    "plugin",
+    "apidoc-plugin",
+    "json"
+  ],
+  "dependencies": {
+    "trim": "0.0.1"
+  }
+}
